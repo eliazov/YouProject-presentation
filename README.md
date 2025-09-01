@@ -42,7 +42,7 @@ YouProject is a university project created with the aim of learning and implemen
 ### Clone the project
 
 1. Clone the repository from the following [GitHub link](https://github.com/eliazov/YouProject):
-   `git clone https://github.com/AndreaCarzeri/YouProject.git`
+   `git clone https://github.com/eliazov/YouProject.git`
 2. Navigate to the project directory: `cd YouProject/frontend`
 3. Install dependencies: `npm install`
 4. Start the front end: `npm run dev`
